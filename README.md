@@ -19,7 +19,7 @@ Javascript, HTML, CSS, .net C#, SQL.
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
-[![MIT License](https://img.shields.io/badge/HTML-5-orange)
-[![MIT License](https://img.shields.io/badge/CSS-3-Blue)
-[![MIT License](https://img.shields.io/badge/JavaScript-Progresse-yellow)
 
+![MIT License](https://img.shields.io/badge/HTML-5-orange)
+![MIT License](https://img.shields.io/badge/CSS-3-Blue)
+![MIT License](https://img.shields.io/badge/JavaScript--yellow)
